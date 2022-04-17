@@ -1,0 +1,26 @@
+*target*
+*.jar
+*.war
+*.ear
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings
+.metadata
+MANIFEST.MF
+
+# Maven
+log/
+target/
+
+# Build output directies #
+/target
+*/target
+/build
+*/build
+/bin/
+
+# log
+*.log
