@@ -11,6 +11,10 @@
 .metadata
 MANIFEST.MF
 
+# Idea
+.idea
+GitExp.iml
+
 # Maven
 log/
 target/
